@@ -1,0 +1,245 @@
+{
+    "famousQuotes": [
+      {
+        "name": "Albert Einstein",
+        "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "color": "#FF5733"
+      },
+      {
+        "name": "Mahatma Gandhi",
+        "quote": "Be the change that you wish to see in the world.",
+        "color": "#33FF57"
+      },
+      {
+        "name": "Martin Luther King Jr.",
+        "quote": "Injustice anywhere is a threat to justice everywhere.",
+        "color": "#3357FF"
+      },
+      {
+        "name": "Nelson Mandela",
+        "quote": "It always seems impossible until it's done.",
+        "color": "#FF33A5"
+      },
+      {
+        "name": "Steve Jobs",
+        "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+        "color": "#FF8C33"
+      },
+      {
+        "name": "Mother Teresa",
+        "quote": "Not all of us can do great things. But we can do small things with great love.",
+        "color": "#B833FF"
+      },
+      {
+        "name": "Walt Disney",
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "color": "#33FFF9"
+      },
+      {
+        "name": "Oscar Wilde",
+        "quote": "Be yourself; everyone else is already taken.",
+        "color": "#FF5733"
+      },
+      {
+        "name": "Leonardo da Vinci",
+        "quote": "Learning never exhausts the mind.",
+        "color": "#F5A623"
+      },
+      {
+        "name": "Thomas Edison",
+        "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+        "color": "#4A90E2"
+      },
+      {
+        "name": "Benjamin Franklin",
+        "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+        "color": "#FFB6C1"
+      },
+      {
+        "name": "Confucius",
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "color": "#A52A2A"
+      },
+      {
+        "name": "Mark Twain",
+        "quote": "The secret of getting ahead is getting started.",
+        "color": "#6495ED"
+      },
+      {
+        "name": "Aristotle",
+        "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+        "color": "#FF7F50"
+      },
+      {
+        "name": "William Shakespeare",
+        "quote": "Some are born great, some achieve greatness, and some have greatness thrust upon them.",
+        "color": "#DC143C"
+      },
+      {
+        "name": "Abraham Lincoln",
+        "quote": "Whatever you are, be a good one.",
+        "color": "#00FFFF"
+      },
+      {
+        "name": "Buddha",
+        "quote": "The mind is everything. What you think, you become.",
+        "color": "#008B8B"
+      },
+      {
+        "name": "Isaac Newton",
+        "quote": "If I have seen further it is by standing on the shoulders of Giants.",
+        "color": "#B8860B"
+      },
+      {
+        "name": "Plato",
+        "quote": "The beginning is the most important part of the work.",
+        "color": "#006400"
+      },
+      {
+        "name": "Ralph Waldo Emerson",
+        "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "color": "#8B008B"
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "quote": "He who has a why to live can bear almost any how.",
+        "color": "#8B0000"
+      },
+      {
+        "name": "John F. Kennedy",
+        "quote": "Ask not what your country can do for you—ask what you can do for your country.",
+        "color": "#483D8B"
+      },
+      {
+        "name": "Winston Churchill",
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "color": "#2E8B57"
+      },
+      {
+        "name": "George Bernard Shaw",
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "color": "#6A5ACD"
+      },
+      {
+        "name": "Socrates",
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "color": "#708090"
+      },
+      {
+        "name": "Voltaire",
+        "quote": "I disapprove of what you say, but I will defend to the death your right to say it.",
+        "color": "#FF6347"
+      },
+      {
+        "name": "Henry Ford",
+        "quote": "Whether you think you can or you think you can’t, you’re right.",
+        "color": "#4682B4"
+      },
+      {
+        "name": "Elon Musk",
+        "quote": "When something is important enough, you do it even if the odds are not in your favor.",
+        "color": "#D2691E"
+      },
+      {
+        "name": "Bill Gates",
+        "quote": "It's fine to celebrate success, but it is more important to heed the lessons of failure.",
+        "color": "#FF4500"
+      },
+      {
+        "name": "Albert Camus",
+        "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+        "color": "#FFD700"
+      },
+      {
+        "name": "Carl Sagan",
+        "quote": "Somewhere, something incredible is waiting to be known.",
+        "color": "#DA70D6"
+      },
+      {
+        "name": "Bruce Lee",
+        "quote": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+        "color": "#EE82EE"
+      },
+      {
+        "name": "J.K. Rowling",
+        "quote": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+        "color": "#40E0D0"
+      },
+      {
+        "name": "Helen Keller",
+        "quote": "The only thing worse than being blind is having sight but no vision.",
+        "color": "#20B2AA"
+      },
+      {
+        "name": "Malala Yousafzai",
+        "quote": "One child, one teacher, one book, one pen can change the world.",
+        "color": "#7FFF00"
+      },
+      {
+        "name": "Marie Curie",
+        "quote": "Nothing in life is to be feared; it is only to be understood.",
+        "color": "#DC143C"
+      },
+      {
+        "name": "Jane Austen",
+        "quote": "It isn't what we say or think that defines us, but what we do.",
+        "color": "#FF1493"
+      },
+      {
+        "name": "Stephen Hawking",
+        "quote": "Intelligence is the ability to adapt to change.",
+        "color": "#1E90FF"
+      },
+      {
+        "name": "Rosa Parks",
+        "quote": "I have learned over the years that when one's mind is made up, this diminishes fear.",
+        "color": "#FF69B4"
+      },
+      {
+        "name": "Elon Musk",
+        "quote": "Persistence is very important. You should not give up unless you are forced to give up.",
+        "color": "#32CD32"
+      },
+      {
+        "name": "Amelia Earhart",
+        "quote": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+        "color": "#FF4500"
+      },
+      {
+        "name": "Maya Angelou",
+        "quote": "You will face many defeats in life, but never let yourself be defeated.",
+        "color": "#BDB76B"
+      },
+      {
+        "name": "Nelson Mandela",
+        "quote": "I never lose. I either win or learn.",
+        "color": "#FFD700"
+      },
+      {
+        "name": "Albert Einstein",
+        "quote": "Imagination is more important than knowledge.",
+        "color": "#DB7093"
+      },
+      {
+        "name": "Eleanor Roosevelt",
+        "quote": "No one can make you feel inferior without your consent.",
+        "color": "#8A2BE2"
+      },
+      {
+        "name": "John Lennon",
+        "quote": "Life is what happens when you're busy making other plans.",
+        "color": "#FF6347"
+      },
+      {
+        "name": "Dalai Lama",
+        "quote": "Happiness is not something ready made. It comes from your own actions.",
+        "color": "#6495ED"
+      },
+      {
+        "name": "Yoda",
+        "quote": "Do or do not, there is no try.",
+        "color": "#FFDAB9"
+      }
+    ]
+  }
+  
